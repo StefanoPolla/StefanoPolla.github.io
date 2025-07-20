@@ -1,3 +1,4 @@
+<!-- this file is excluded in _config.yml -->
 ---
 layout: profiles
 permalink: /people/

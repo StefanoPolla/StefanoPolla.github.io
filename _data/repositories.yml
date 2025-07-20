@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - StefanoPolla
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - StefanoPolla/EarlyFT_QPE
+  - StefanoPolla/DFTQML
+  - stefanopolla/adiabatic-mitigation
+  - aQaLeiden/QuantumDigitalCooling
+  - Emieeel/auto_oo
