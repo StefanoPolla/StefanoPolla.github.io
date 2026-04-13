@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-doctoral researcher @ Leiden university.
+subtitle: Assistant Professor @ University of Amsterdam (UvA)
 
 profile:
   align: right
   image: portret-square.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Huygens laboratory 224</p>
-    <p>Niels Bohrweg 2</p>
-    <p>2333 CA Leiden, NL</p>
+    <p>Science Park 904</p>
+    <p>C2.221</p>
+    <p>Amsterdam</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,11 +27,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am researching Quantum Algorithms for the simulation of molecular systems in UvA.
 
-Researcher at the [Lorentz Institute for theoretical physics](https://www.lorentz.leidenuniv.nl/) and part of the [Applied Quantum Algorithms group](https://aqa.liacs.nl/).
+Member of the Computational Chemistry group in the Van 't Hoff Institute for Molecular Sciences (HIMS), UvA.
 
-Leading the Leiden team in the QC2 -- Quantum computing for quantum chemistry collaboration (Leiden, VU Amsterdam, CWI).
+Member of the [Computational Science Lab](https://uva.computationalscience.nl/) in IvI (Instituut van Informatica), UvA.
 
+Member of [QuSoft](https://qusoft.org/).
+
+Principal Investigator in the [Applied Quantum Algorithms Leiden](https://aqa.liacs.nl/) group.
+
+Leading member of the Quantum computing for Qantum Chemistry (QC$^2$) collaboration (including QuSoft Amsterdam, aQa Leiden, VU Amsterdam).
+
+Coordinator of a consortium researching Quantum Software for Drug Design (QSDD) in the context of [QDNL Forward Challenge for Life Science and Health](https://quantumdelta.nl/quantum-forward-challenge).
 
 ---
 
