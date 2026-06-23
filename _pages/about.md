@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am researching Quantum Algorithms for the simulation of molecular systems in UvA.
+I am researching Quantum Algorithms for the Simulation of Molecular Systems in UvA.
 
 Member of the Computational Chemistry group in the Van 't Hoff Institute for Molecular Sciences (HIMS), UvA.
 
@@ -40,6 +40,10 @@ Principal Investigator in the [Applied Quantum Algorithms Leiden](https://aqa.li
 Leading member of the Quantum computing for Qantum Chemistry (QC$^2$) collaboration (including QuSoft Amsterdam, aQa Leiden, VU Amsterdam).
 
 Coordinator of a consortium researching Quantum Software for Drug Design (QSDD) in the context of [QDNL Forward Challenge for Life Science and Health](https://quantumdelta.nl/quantum-forward-challenge).
+
+---
+
+### [One PhD position open in my group!](/openings/)
 
 ---
 
