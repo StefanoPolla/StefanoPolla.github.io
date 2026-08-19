@@ -43,18 +43,19 @@ Coordinator of a consortium researching Quantum Software for Drug Design (QSDD) 
 
 ---
 
+{% comment %}
+
 ### [One PhD position open in my group!](/openings/)
 
 ---
 
+{% endcomment %}
 
 **_Work in progress..._**
-
 
 <img src="/assets/img/thesis_cover.jpg" alt="Thesis Cover" style="centered; max-width:100%; height:auto;">
 
 This is the cover of my PhD thesis: _an artistic representation of quantum computing emerging as a new technology, inspired by the rising cities painted by the futurist movement._ — by Jeanne M. Viet [Miss J Art](https://www.instagram.com/missj_art)
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -1,9 +1,11 @@
----
+{% comment %}
+
 layout: page
 title: openings
 permalink: /openings/
 nav: true
 nav_order: 9
+
 ---
 
 ### [PhD in Quantum Algorithms for Chemistry](https://werkenbij.uva.nl/en/vacancies/phd-in-quantum-algorithms-for-chemistry-netherlands-15197)
@@ -17,4 +19,4 @@ Are you excited about designing the next generation of quantum algorithms and tu
 ---
 
 No other PhD or Postdocs positions are currently open in our group. More might come soon...
-
+{% endcomment %}
